@@ -1,0 +1,93 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.banner{
+    background-image: url(brain.png) ;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+
+height: 100vh;
+width: 100%;
+}
+.web{
+margin: 50px auto;
+text-align: center;
+border: 3px solid white;
+padding: 50px;
+border-radius: 20px;
+width: 450px;
+height: 600px;
+background-color: white;
+font-family: Arial, Helvetica, sans-serif
+
+}
+.butt{
+    text-align: center;
+}
+.butt button{
+width: 300px;
+height: 35px;
+background-color: blue;
+color: white;
+border: none;
+border-radius: 10px;
+}
+.inp{
+margin: 20px;
+}
+.wel{
+    margin: 30px;
+}
+.butto{
+    text-align: center;
+}
+.butto button{
+margin: 20px;
+width: 300px;
+border-radius: 10px;
+background-color: white;
+text-align: center;
+padding: 5px;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+padding: 10px;
+/* width: 10%;xs */
+font-size: large;
+border-radius: 10px;
+margin: 10px;
+}
+h2{
+    margin: 10px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    margin: 10px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    margin: 10px;
+}
+h1{
+    margin: 10px;
+}
+h4{
+    margin: 10px;
+}
+b{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
